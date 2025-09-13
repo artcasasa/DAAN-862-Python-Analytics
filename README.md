@@ -6,10 +6,8 @@ It includes **Jupyter Notebook lessons**, the **course syllabus**, and other sup
 ---
 
 ## 📂 Repository Structure  
-- 📘 **`syllabus/`** → Course syllabus in PDF format  
 - 📑 **`lessons/`** → Jupyter Notebook lessons (`.ipynb`)  
 - 🎓 **`projects/`** → Final project or case studies (if applicable)  
-- 🗂️ **`zip-archives/`** → Original zipped files provided  
 - ⚙️ **`requirements.txt`** → Python package dependencies (optional)  
 
 ---
@@ -36,3 +34,4 @@ Example:
 ```bash
 pip install -r requirements.txt
 ```
+
